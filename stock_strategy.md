@@ -1,0 +1,1 @@
+- 10-23 15:39 ET full check (entry window closed): flat, $174.09, no orders, realized $0 day/week. SPY 760.28 (-0.48%). Watchlist: NXE 8.21 (+1.4%) G, NTSK 24.24 (+9.2%) G, FRSH 15.40 (+0.5%) Y. 0 stock trades today.
