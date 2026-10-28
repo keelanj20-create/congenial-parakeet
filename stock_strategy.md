@@ -16,3 +16,4 @@
 - 10-28 11:40 ET full check: flat, no orders, cash $174.09, realized $0. Filters pass (SPY 771.49 > 20d 770.14, +0.24%). Scan 48 rows, max rel vol LYG 0.96 (<1.5) -> no entry. Watchlist: NXE 8.76 (-0.5%) Y, NTSK 26.09 (-0.2%) Y, FRSH 15.23 (+2.2%) G.
 - 10-28 12:40 ET full check: flat, no orders, cash $174.09, realized $0. Filters pass (SPY 771.20 > 20d 770.14, +0.20%). Scan 52 rows, max rel vol LYG 1.41 (<1.5) -> no entry. Last full check in entry window; no trades today. Watchlist: NXE 8.82 (+0.2%) Y, NTSK 26.12 (-0.1%) Y, FRSH 15.22 (+2.1%) G.
 - 10-28 13:39 ET full check: flat, no orders, cash $174.09, realized $0. Entry window closed (no scan). SPY 770.97 (+0.17%). Watchlist: NXE 8.77 (-0.4%) Y, NTSK 26.19 (+0.1%) Y, FRSH 15.24 (+2.3%) G.
+- 10-28 14:39 ET full check: flat, no orders, cash $174.09, realized $0. Entry window closed (no scan). SPY 771.61 (+0.25%). Watchlist: NXE 8.86 (+0.6%) Y, NTSK 26.45 (+1.1%) G, FRSH 15.22 (+2.1%) G.
