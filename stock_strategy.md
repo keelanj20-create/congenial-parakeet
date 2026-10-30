@@ -31,3 +31,4 @@
 - 10-30 12:38 ET full check: flat, no orders. SPY 757.25 (-1.57%, below 20d) -> entry filter FAIL, scan skipped. Last check in entry window: no trades today. Watchlist: NXE 8.27 -4.5% R, NTSK 23.97 -8.5% R, FRSH 14.61 -2.7% R. Acct $174.09.
 - 10-30 13:38 ET full check: flat, no orders today, acct $174.09 cash. Entry window closed (after 13:00); SPY 755.20 (-1.84%, below 20d ~770) would block anyway. Watchlist: NXE 8.21 (-5.1%) R, NTSK 24.02 (-8.3%) R, FRSH 14.65 (-2.4%) R. Day/week realized $0.
 - 10-30 14:38 ET full check: flat, no orders today, acct $174.09 cash. Entry window closed; SPY 751.24 (-2.36%, below 20d ~770). Watchlist: NXE 8.11 (-6.2%) R, NTSK 23.83 (-9.0%) R, FRSH 14.65 (-2.4%) R. Day/week realized $0.
+- 10-30 15:38 ET full check: flat, no orders today, acct $174.09 cash. Entry window closed; SPY 753.13 (-2.11%, below 20d ~770). Watchlist: NXE 8.21 (-5.1%) R, NTSK 24.29 (-7.3%) R, FRSH 14.75 (-1.8%) R. Day/week realized $0.
