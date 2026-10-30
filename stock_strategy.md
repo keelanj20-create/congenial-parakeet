@@ -27,3 +27,4 @@
 - 10-29 15:38 ET full check: flat, past entry cutoff. SPY 768.29 (-0.52%). Watchlist: NXE 8.64 -3.4% R, NTSK 25.94 -2.2% R, FRSH 14.90 -3.2% R. Acct $174.09, no trades today (10-29 day P&L $0).
 - 10-30 09:39 ET pre-open check: flat. SPY 760.72 (-1.12%, below 20d ~770) -> entry filter FAIL. Watchlist: NXE 8.18 -5.5% R, NTSK 25.97 -0.8% Y, FRSH 14.87 -0.9% Y. Acct $174.09.
 - 10-30 10:39 ET full check: flat, no orders. SPY 759.57 (-1.27%, below 20d) -> entry filter FAIL, scan skipped. Watchlist: NXE 8.31 -4.0% R, NTSK 24.82 -5.2% R, FRSH 14.82 -1.3% Y. Acct $174.09.
+- 10-30 11:39 ET full check: flat, no orders. SPY 757.88 (-1.49%, below 20d) -> entry filter FAIL, scan skipped. Watchlist: NXE 8.26 -4.6% R, NTSK 24.42 -6.8% R, FRSH 14.72 -2.0% R. Acct $174.09.
