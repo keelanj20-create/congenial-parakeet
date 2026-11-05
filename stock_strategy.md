@@ -58,3 +58,4 @@
 - 11-05 12:38 ET full check: flat, no orders today, account still $0.09. No entries: BP ~0 and gate FAIL (SPY 738.67 -3.67% vs 20d 767.57). NXE 7.725 (-3.4%) R; NTSK 22.31 (-2.0%, 2.6% above 20d) Y; FRSH 13.055 (-1.5%) R. AVAX untouched.
 - 11-05 13:38 ET full check: flat, account still $0.09. Past 13:00 cutoff -> no entries (also BP ~0; SPY 736.34 -3.97%). NXE 7.81 (-2.4%) R; NTSK 21.815 (-4.2%, ~at 20d 21.74) R; FRSH 12.88 (-2.9%) R. AVAX untouched.
 - 11-05 14:38 ET full check: flat, no orders, past 13:00 entry cutoff. SPY 736.53 (-3.95%, below 20d 767.57). Watchlist: NXE 7.885 R, NTSK 21.69 R, FRSH 12.805 R. Account $0.09 (unexplained drop from $174.09 still unresolved).
+- 11-05 15:38 ET full check: flat, no trades, past entry cutoff. SPY 734.37 (-4.23%). Watchlist: NXE 7.91 R, NTSK 21.605 R, FRSH 12.72 R. Account $0.09 (unexplained drop still unresolved).
