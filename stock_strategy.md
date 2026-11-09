@@ -66,3 +66,4 @@
 - 11-06 13:38 ET full check: flat, no orders, past 13:00 entry cutoff. SPY 737.73 (+0.65%) below 20d ~766. Watchlist: NXE 8.205 R (+3.5%, still below 20d 8.59), NTSK 20.83 R, FRSH 12.03 R. Account $0.09.
 - 11-06 14:38 ET full check: flat, no orders, past entry cutoff. SPY 737.57 (+0.62%) below 20d ~766. Watchlist: NXE 8.195 R (+3.3%), NTSK 21.37 R, FRSH 12.125 R. Account $0.09.
 - 11-06 15:38 ET full check: flat, no trades today, past entry cutoff. SPY 737.04 (+0.55%) below 20d ~766. Watchlist: NXE 8.255 R (+4.1%, below 20d 8.59), NTSK 21.37 R, FRSH 12.245 R. Account $0.09 (drop from $174.09 on 11-05 still unexplained).
+- 11-09 09:38 ET pre-open: flat, no orders. Acct $0.09 (BP $0.09). SPY 744.64 (+1.27%) still < 20d avg ~766 -> entries blocked. Watchlist: NXE 8.44 (+2.3%, <20d 8.59) R; NTSK 21.30 (0%, <20d ~21.7) R; FRSH 12.10 (-0.1%, <20d 14.38) R. AVAX untouched.
