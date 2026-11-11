@@ -83,3 +83,4 @@
 - 11-11 09:38 ET full check (pre-open, watchlist only): flat, no orders, acct $0.09. SPY 757.00 (+0.94%, still below 20d ~766) → entries blocked. NXE 8.365 +0.4% R; NTSK 22.505 +5.0% Y; FRSH 12.095 +1.8% R. AVAX untouched.
 - 11-11 10:38 ET full check: flat, no orders today, acct $0.09, realized $0. SPY 756.83 (+0.92%, still below 20d ~766) → entries blocked (also BP $0.09); scan skipped. NXE 8.485 +1.9% R (just under 20d 8.59); NTSK 22.375 +4.4% Y; FRSH 12.105 +1.9% R. AVAX untouched.
 - 11-11 11:38 ET full check: flat, no orders today, acct $0.09, realized $0. SPY 759.16 (+1.23%, still below 20d ~766) → entries blocked (also BP $0.09); scan skipped. NXE 8.49 +1.9% R; NTSK 22.59 +5.4% Y; FRSH 12.16 +2.4% R. AVAX untouched.
+- 11-11 12:43 ET full check: flat, no orders today, acct $0.09, realized $0. SPY 761.34 (+1.52%, still below 20d ~766) → entries blocked (also BP $0.09); scan skipped. NXE 8.47 +1.7% R; NTSK 22.525 +5.1% Y; FRSH 12.205 +2.7% R. AVAX untouched.
